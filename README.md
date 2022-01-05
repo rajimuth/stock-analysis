@@ -31,29 +31,29 @@ code:
 
 **Dim tickers(12) As String**
     
-    **tickers(0) = "AY"**
+   **tickers(0) = "AY"**
 
-    **tickers(1) = "CSIQ"**
+   **tickers(1) = "CSIQ"**
 
-    **tickers(2) = "DQ"**
+   **tickers(2) = "DQ"**
 
-    **tickers(3) = "ENPH"**
+   **tickers(3) = "ENPH"**
 
-    **tickers(4) = "FSLR"**
+   **tickers(4) = "FSLR"**
 
-    **tickers(5) = "HASI"**
+   **tickers(5) = "HASI"**
 
-    **tickers(6) = "JKS"**
+   **tickers(6) = "JKS"**
 
-    **tickers(7) = "RUN"**
+   **tickers(7) = "RUN"**
 
-    **tickers(8) = "SEDG"**
+   **tickers(8) = "SEDG"**
 
-    **tickers(9) = "SPWR"**
+   **tickers(9) = "SPWR"**
 
-    **tickers(10) = "TERP"**
+   **tickers(10) = "TERP"**
 
-    **tickers(11) = "VSLR"**
+   **tickers(11) = "VSLR"**
 
 ### Calculation of total volume
 The goal is to calculate total vloume for each company/ticker. So we have to loop throught the ticker array by assigning a  variable to the index of the array.
