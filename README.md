@@ -128,14 +128,16 @@ https://github.com/rajimuth/stock-analysis/blob/main/Resources/VBA_Challenge_201
 - Remove code duplications
 - helps in adding more funtionality to the code
 
+**Disadvantages**
+- There is a chance to introduce new bugs in the process
+- Requires high coordination effort when a large team is involved in the process
+- Limited opportunties to add new function as it could interefre with the architechture/strutcture of the original code
+- Refactoring without proper goals and clarity of the project and lack of coordination can lead to added issues/errors
+
+
 References:
 
 https://www.ionos.ca/digitalguide/websites/web-development/what-is-refactoring/
 
 https://www.quora.com/What-are-the-pros-and-cons-of-refactoring
 
-**Disadvantages**
-- There is a chance to introduce new bugs in the process
-- Requires high coordination effort when a large team is involved in the process
-- Limited opportunties to add new function as it could interefre with the architechture/strutcture of the original code
-- Refactoring without proper goals and clarity of the project and lack of coordination can lead to added issues/errors
