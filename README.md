@@ -87,6 +87,9 @@ Additional formatting was done to add highlight color for eprcentage returns tha
 
 
 ### 2017 Stock Analysis results
+https://github.com/rajimuth/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
+![VBA_Challenge_2017.png](https://github.com/rajimuth/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
 - Over all 2017 looks like a great year for most of these companies in the energy industry.
 - All companies had a positive percentage return except TERP
 - Values highlighted in Green shows positive percentage return
@@ -95,6 +98,8 @@ Additional formatting was done to add highlight color for eprcentage returns tha
 - But DAQO had the highest perecntage return (199.4%) compared to other companies in 2017
 
 ### 2018 Stock Analysis results
+![image](https://user-images.githubusercontent.com/94877067/148288665-12aaf44c-2a79-44f1-a516-f3227d50e63b.png)
+
 - 2018 analysis looks gloomy for most of these companies in the energy industry.
 - All companies had a negative percentage return except couple of them (ENPH and RUN)
 - The total daily volume of stocks was higher compared to 2017 for few of them
