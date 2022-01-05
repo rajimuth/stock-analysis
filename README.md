@@ -104,6 +104,11 @@ Additional formatting was done to add highlight color for eprcentage returns tha
 - Analysis shows that many energy industries were hit hard in 2018
 
 ###  Execution time of the refactored script
+
+https://github.com/rajimuth/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
+![VBA_Challenge_2017.png](https://github.com/rajimuth/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+
 - The refracted code ran 0.75 seconds and the original script ran for 0.78 seconds
 - So refraction of the code definitely gave an efficient run time
 
